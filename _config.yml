@@ -28,7 +28,8 @@ twitter_username: ikhots
 github_username:  ikhot
 
 # Build settings
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
