@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: -Home
+title: Home
+weight: 0
 ---
 
-## -Home
+## Home
 
 You can use the [editor on GitHub](https://github.com/ikhot/ikhot.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
