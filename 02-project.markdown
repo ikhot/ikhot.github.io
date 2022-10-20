@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Project
-permalink: /project/
+title: Projects
+permalink: /projects/
 weight: 1
 ---
