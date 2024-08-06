@@ -8,8 +8,14 @@ tags: project
 
 **Here i put some Lean knowledge for archive**
 
-- Value
-- Value Stream
-- Flow
-- Pull
-- Cadence
+- [Value][value]
+- [Value Stream][value-stream]
+- [Flow][flow]
+- [Pull][pull]
+- [Cadence][cadence]
+  
+[value]: html://www.jinyf.org
+[value-stream]: html://www.jinyf.org
+[flow]: html://www.jinyf.org
+[pull]: html://www.jinyf.org
+[cadence]: html://www.jinyf.org
