@@ -5,5 +5,11 @@ date:   2022-10-29 14:30:59 +0800
 categories: political
 tags: 
 ---
+Current VPN service wokring.
 
-no categories
+- 2024/08/06
+[Aha Speed][aha-speed]
+[shadowsocks][shadowsocks]
+
+[aha-speed]: https://www.ahaspeed.com/
+[shadowsocks]: https://shadowsocks.com/

@@ -5,8 +5,7 @@ date:   2021-10-07 15:01:59 +0800
 categories: jekyll update
 tags: project
 ---
-
-**Here i put some Lean knowledge for archive**
+Here i put some Lean knowledge for archive
 
 - [Value][value]
 - [Value Stream][value-stream]
@@ -14,8 +13,8 @@ tags: project
 - [Pull][pull]
 - [Cadence][cadence]
   
-[value]: html://www.jinyf.org
-[value-stream]: html://www.jinyf.org
-[flow]: html://www.jinyf.org
-[pull]: html://www.jinyf.org
-[cadence]: html://www.jinyf.org
+[value]: http://www.ikhots.com
+[value-stream]: http://www.ikhots.com
+[flow]: http://www.ikhots.com
+[pull]: http://www.ikhots.com
+[cadence]: http://www.ikhots.com

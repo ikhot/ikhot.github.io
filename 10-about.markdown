@@ -10,4 +10,4 @@ weight: 20
 - An excellent communicator, good knowledge on both technology and business acumen to communicate effectively with customers; quick learner, enthusiasm on technology, curiosity on new things;  
 - 10 years experience on ERP maintenance and process analysis, especially good at Syteline & Oracle EBS;  
 - 15 years experience on software develop and software project lead; have strong ability on architecture and coding;  
-- 9 years on manufacture IT support and data analysis; familiar with manufacture process like production, material planning, warehouse, sourcing process, finance module etc.  
+- 9 years on manufacture IT support and data analysis; familiar with manufacture process like production, material planning, warehouse, sourcing process, finance module etc.
