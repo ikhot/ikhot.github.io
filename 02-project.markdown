@@ -1,6 +1,9 @@
 ---
-layout: project
+layout: home
 title: Projects
 permalink: /projects/
-weight: 1
+order: 2
+pagination: 
+  enabled: true
+  category: projects
 ---

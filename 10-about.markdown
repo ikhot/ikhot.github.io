@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-weight: 20
+order: 4
 ---
 
 - Senior leader in supply chain site as digital team leader over 6 years; Experienced project manager offering 14+ years of success leading different phases of diverse technology projects;  

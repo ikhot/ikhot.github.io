@@ -26,14 +26,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ikhots
 github_username:  ikhot
-paginate: 5
+author: ivan
 
 # Build settings
 # theme: jekyll-theme-cayman
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-paginate-v2
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -53,3 +53,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# Produces a cleaner folder structure when using categories
+permalink: /:year/:month/:title.html
