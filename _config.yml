@@ -30,7 +30,7 @@ paginate: 5
 
 # Build settings
 # theme: jekyll-theme-cayman
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
