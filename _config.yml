@@ -29,10 +29,12 @@ github_username:  ikhot
 paginate: 5
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/minimal@v0.2.0
+
 # theme: minimal
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
