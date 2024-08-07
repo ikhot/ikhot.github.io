@@ -29,8 +29,8 @@ github_username:  ikhot
 paginate: 5
 
 # Build settings
-# theme: jekyll-theme-cayman
-theme: minimal
+theme: jekyll-theme-cayman
+# theme: minimal
 plugins:
   - jekyll-feed
 
